@@ -1,0 +1,5 @@
+{
+  "name": "Planetary Orbit Simulator",
+  "description": "An interactive 2D planetary orbit simulation. Watch planets move around a central star, control the simulation, and view planet details. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
